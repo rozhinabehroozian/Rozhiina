@@ -1,0 +1,58 @@
+body{
+    min-height: 100vh;
+    direction: ltr;
+    margin: 0 0;
+    background-color: #D2E8E8;
+}
+#menu{
+    height: 60px;
+    background-color: #D2E8E8;
+    padding: 10px 20px;
+}
+#header{
+    height: 500px;
+    background-color: #F3F9F9;
+    padding: 30px 30px;
+}
+#main{
+    height: 90px;
+    background-color:#8AC0C0  ;
+    padding: 10px 50px;
+}
+#Section1{
+    height: 500px;
+    background-color:#F3F9F9 ;
+    padding: 50px 30px;
+}
+#Section2{
+    height: 450px;
+    background-color:#AED4D4;
+    padding: 30px 20px;
+}
+#Section3{
+    height: 700px;
+    background-color:#D2E8E8 ;
+    padding-top: 70px;
+    padding-bottom: 280px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#Section4{
+    height: 300px; width: 60%;
+    background-color:white ; margin: -163px 265px; position: relative;z-index: 1;
+    padding: 20px 10px;
+}
+#footer{
+    height: 80px; background-color: #8AC0C0;padding-bottom: 20px;
+    padding-top: 220px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#container{
+    background-color: rgb(152, 150, 150);
+    min-height: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 200px;
+    margin-bottom: 380px;
+}
